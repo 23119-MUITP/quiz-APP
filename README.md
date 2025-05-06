@@ -17,3 +17,17 @@ streamlit run app.py
 
 Watch the working Streamlit quiz app here:  
 👉 [Click to watch demo](https://drive.google.com/file/d/1gTDMa0N0briHwWGBsZc9Su9JJwLoHTCO/view?usp=drive_link)
+
+📽️ **Demo Overview**
+
+This demo video showcases:
+
+- Launching the app via terminal using `streamlit run app.py`
+- Dynamic quiz question rendering from a CSV file
+- User interaction with options and submission
+- Final score calculation and feedback display
+
+✅ This provides a complete view of the working Streamlit quiz app.  
+To run locally, simply execute:
+```bash
+streamlit run app.py
