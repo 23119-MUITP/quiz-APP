@@ -12,3 +12,8 @@ This is a Streamlit-based quiz application built as part of a Python group proje
 
 ```bash
 streamlit run app.py
+
+📽️ **Demo Video**
+
+Watch the working Streamlit quiz app here:  
+👉 [Click to watch demo](https://drive.google.com/file/d/1gTDMa0N0briHwWGBsZc9Su9JJwLoHTCO/view?usp=drive_link)
